@@ -1,36 +1,24 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# TRANSISTA
 
-## Getting Started
+## ABOUT THIS PROJECT
 
-First, run the development server:
+Transista is ademo project I designed to enable me familiarize myself with NextJS 15, pactice Zod form validation in Shadcn projects and also, task myself futher with session management in a Next js project manually using the JWT approach
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## WHAT TO EXPECT
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+This project is strictly for learning purpose and the project name was generated using Namelix ai. It at the moment was not designed for business purpose tho may be tweaked in the future to support such course.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+This project is open to anyonw who believes they can make meaningful contribution to it to make it an even better system. All contributions are welcome as this will help in tuning this project to a more complex and sophisticated system that will solve problems currently being faced in booking bus tickets in various bus terminals across Nigeria and other countries.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## HOW TO REPLICATE THIS LOCALLY
 
-## Learn More
+There are so many reasons you may want to create a local copy of this such as contributing to the codebase, to assist you learn how it works, to aenale you build upon it and create a personal business of your own, etc
 
-To learn more about Next.js, take a look at the following resources:
+Here are the steps to take when cloning it:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- Clone the repo locally: `git clone https://github.com/arewageek/transista.git`
+- Open folder: `cd transista`
+- Install all dependencies: `npm install`
+- If you intend contributing to thi codebase, please switch to the `feat` branch `git checkout -b feat`
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+At this point you should have all files and dependencies for the current version locally installed in your device
