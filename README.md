@@ -2,7 +2,7 @@
 
 ## ABOUT THIS PROJECT
 
-Transista is ademo project I designed to enable me familiarize myself with NextJS 15, pactice Zod form validation in Shadcn projects and also, task myself futher with session management in a Next js project manually using the JWT approach
+Transista is a demo project I designed to enable me familiarize myself with NextJS 15, pactice Zod form validation in Shadcn projects and also, task myself futher with session management in a Next js project manually using the JWT approach
 
 ## WHAT TO EXPECT
 

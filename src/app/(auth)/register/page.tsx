@@ -1,8 +1,12 @@
+import { AuthContainer } from '@/components/container/auth-container'
+import RegisterForm from '@/components/form/register-form'
 import React from 'react'
 
 const RegisterPage = () => {
     return (
-        <div>RegisterPage</div>
+        // <AuthContainer>
+        <RegisterForm />
+        // </AuthContainer>
     )
 }
 
